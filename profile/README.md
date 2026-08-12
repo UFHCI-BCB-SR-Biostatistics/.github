@@ -18,5 +18,5 @@ Browse our repositories to find statistical code, documentation, and reproducibl
 ## More Information
 - **Supporting Requests Form:**
   https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/
-- **BBWinc:**https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/bb-winc/
+- **BBWinc:** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/bb-winc/
 - **Contact:** UFHCC-BCB-SR@ad.ufl.edu
