@@ -18,6 +18,9 @@ Browse our repositories to find statistical code, documentation, and reproducibl
 ## More Information
 - **Supporting Requests Form:**
   https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/
+  **Website:** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/
 - **Biostatistics and Bioinformatics Virtual Walk-In Clinic (BBWinc):** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/bb-winc/
 - **Biostatistics and Bioinformatics 101: Best Practices for Cancer Data:** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/biostatistics-101/
-- **Contact:** UFHCC-BCB-SR@ad.ufl.edu
+
+## Contact 
+Questions about our tools or interested in collaboration? Please reach out through the UF Health Cancer Center Biostatistics & Computational Biology Shared Resource.
