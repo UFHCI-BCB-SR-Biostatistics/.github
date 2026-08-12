@@ -16,11 +16,12 @@ Our repositories contain code and resources supporting biostatistical research a
 Browse our repositories to find statistical code, documentation, and reproducible research resources.
 
 ## More Information
-- **Supporting Requests Form:**
-  https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/
-- **Website:** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/
-- **Biostatistics and Bioinformatics Virtual Walk-In Clinic (BBWinc):** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/bb-winc/
-- **Biostatistics and Bioinformatics 101: Best Practices for Cancer Data:** https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/biostatistics-101/
 
-## Contact 
-Questions about our tools or interested in collaboration? Please reach out through the UF Health Cancer Center Biostatistics & Computational Biology Shared Resource.
+- **[Biostatistics Support Request Form](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/)** — Request biostatistical support or collaboration.
+- **[BCB-SR Website](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/)** — Learn more about the Biostatistics & Computational Biology Shared Resource.
+- **[Biostatistics & Bioinformatics Virtual Walk-In Clinic (BBWinc)](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/bb-winc/)** — Information about virtual walk-in consultation opportunities.
+- **[Biostatistics & Bioinformatics 101: Best Practices for Cancer Data](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/events/biostatistics-101/)** — Educational sessions and resources on best practices for cancer research.
+
+## Contact
+
+Questions about our resources or interested in collaborating with the Biostatistics Unit? Please submit a request through the **[Biostatistics Support Request Form](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/)** or contact us at **UFHCC-BCB-SR@ad.ufl.edu**.
