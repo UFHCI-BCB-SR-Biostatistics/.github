@@ -8,7 +8,7 @@ Our repositories contain code and resources supporting biostatistical research a
 
 - **Collaborative Research Projects** - Statistical code and analyses for research collaborations
 - **Reproducible Reports** - Reproducible statistical reports and workflows
-- **R and SAS Resources** - R functions, templates, and reusable statistical tools
+- **R and SAS Resources** - R and SAS functions, templates, and reusable statistical tools
 - **R Shiny Templates** - R Shiny template
 - **Statistical Methods** - Code and examples for commonly used statistical methods
 - **Educational Resources** - Presentations, workshops, and training materials
