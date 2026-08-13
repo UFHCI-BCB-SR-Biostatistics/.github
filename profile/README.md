@@ -19,10 +19,10 @@ Browse our repositories to find statistical code, documentation, and reproducibl
 
 To keep repositories organized and easy to identify, please use the following naming conventions:
 
-- **Projects:** `proj-[PI-or-group]-[study-title]`
-- **Resources:** `res-[resource-name]`
-- **Templates:** `template-[template-name]`
-- **Apps:** `app-[app-name]`
+- **Projects:** `proj-[PI-or-group]-[study-title]` — Research projects and collaborative analyses, identified by the PI or research group and study title.
+- **Resources:** `res-[resource-name]` — Reusable statistical, programming, methodological, or educational resources.
+- **Templates:** `template-[template-name]` — Standardized templates for reproducible reports, analyses, and other workflows.
+- **Apps:** `app-[app-name]` — R Shiny applications and other interactive statistical or research tools.
   
 ## More Information
 
