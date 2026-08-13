@@ -36,4 +36,4 @@ To keep repositories organized and easy to identify, please use the following na
 
 ## Contact
 
-Have questions about our resources or interested in collaborating with the Biostatistics Unit? Please submit a request through the **[Biostatistics Support Request Form](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/)** or contact us at **[UFHCC-BCB-SR@ad.ufl.edu](mailto:UFHCC-BCB-SR@ad.ufl.edu)**.
+Have questions about our resources or interested in collaborating with the Biostatistics Unit? Please submit a request through the **[BCB-SR Request Form](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/)** or contact us at **[UFHCC-BCB-SR@ad.ufl.edu](mailto:UFHCC-BCB-SR@ad.ufl.edu)**.
