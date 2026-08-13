@@ -15,6 +15,15 @@ Our repositories contain code and resources supporting biostatistical research a
 
 Browse our repositories to find statistical code, documentation, and reproducible research resources.
 
+## Repository Naming Convention
+
+To keep repositories organized and easy to identify, please use the following naming conventions:
+
+- **Projects:** `proj-[PI-or-group]-[study-title]`
+- **Resources:** `res-[resource-name]`
+- **Templates:** `template-[template-name]`
+- **Apps:** `app-[app-name]`
+  
 ## More Information
 
 - **[BCB-SR Support Request Form](https://cancer.ufl.edu/research/shared-resources/biostatistics-computational-biology-shared-resource/biostatistics-shared-resource-support-request-form/)** — Request biostatistical support or collaboration.
