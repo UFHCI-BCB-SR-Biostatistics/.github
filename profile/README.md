@@ -8,6 +8,7 @@ Our repositories contain code and resources supporting biostatistical research a
 
 - **Collaborative Research Projects** — Statistical code and analyses supporting research collaborations
 - **Reproducible Reports** — Reproducible statistical reports and workflows
+- **Manuscript Repositories** — Code and supporting materials associated with submitted or published research manuscripts
 - **R and SAS Resources** — R and SAS functions, templates, and reusable statistical tools
 - **R Shiny Templates** — Reusable templates for developing R Shiny applications
 - **Statistical Methods** — Code and examples for commonly used statistical methods
@@ -23,6 +24,7 @@ To keep repositories organized and easy to identify, please use the following na
 - **Resources:** `res-[resource-name]` — Reusable statistical, programming, methodological, or educational resources.
 - **Templates:** `template-[template-name]` — Standardized templates for reproducible reports, analyses, and other workflows.
 - **Apps:** `app-[app-name]` — R Shiny applications and other interactive statistical or research tools.
+- **Manuscripts:** `manuscript-[short-title]` — Public repositories containing code, documentation, and other materials supporting a submitted or published research manuscript.
   
 ## More Information
 
